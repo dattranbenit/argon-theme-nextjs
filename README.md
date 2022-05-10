@@ -247,7 +247,7 @@ We use GitHub Issues as the official bug tracker for the Material Kit. Here are 
 
 ## Licensing
 
-- Copyright 2021 Creative Tim (https://www.creative-tim.com/?ref=njsad-github-readme)
+- Copyright 2021 Creative Tim(https://www.creative-tim.com/?ref=njsad-github-readme)
 
 - Licensed under MIT (https://github.com/creativetimofficial/nextjs-argon-dashboard/blob/master/LICENSE.md?ref=creativetim)
 
